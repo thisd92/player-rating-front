@@ -1,7 +1,7 @@
 'use client'
 import styles from '../page.module.css'
 
-import Match from '../components/match/Match'
+import Match from '../../components/match/Match'
 import Link from 'next/link'
 
 export default function MatchPage() {
